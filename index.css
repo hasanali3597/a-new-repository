@@ -15,4 +15,8 @@ h1{
 
 .text{
     color: rgba(214, 247, 237, 0.685);
+    font-size: 20px;
+    display: flex;
+    height: auto;
+    width: auto;
 }
